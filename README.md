@@ -13,7 +13,7 @@
     <td><img widht="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /></td>
     <td><img widht="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" /></td>
     <td><img widht="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" /></td>
-    <td><img widht="100" height="100" src="https://pics.freeicons.io/uploads/icons/png/2550246031617448419-512.png" /></td>
+    <td><img widht="100" height="50" src="./src/main/resources/docs/img/h2-logo-2.png" /></td>
   </tr>
 </table>
 
